@@ -5,7 +5,7 @@
 You must be 13 or older to participate in WovenMC community spaces. If you are found to be under 13, you will be banned until you are 13.
 
 ## Rule 1  
-> Discriminatory, harassing, bullying, "trolling", or otherwise offensive or distasteful content, regardless if it were directed towards another community member or not, is prohibited. We have a **zero tolerance policy** on hate speech and harassment. Posting content which can reasonably considered intentionally attacking or offensive will result in disciplinary action.
+Discriminatory, harassing, bullying, "trolling", or otherwise offensive or distasteful content, regardless if it were directed towards another community member or not, is prohibited. We have a **zero tolerance policy** on hate speech and harassment. Posting content which can reasonably considered intentionally attacking or offensive will result in disciplinary action.
 
 Examples of unacceptable behavior include, but is not limited to:
 - Using slurs, including but not limited to words like "trap" and "retard."
@@ -15,16 +15,16 @@ Examples of unacceptable behavior include, but is not limited to:
 - Anything the moderation feels is unacceptable behavior for our community.
 
 ## Rule 2
-> All content that violates the terms of service of the platform being used for a Woven community space is strictly prohibited. For Discord, see [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines). For GitHub, see [GitHub Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service). For Matrix, see [Terms and Conditions](https://www.matrix.org/legal/terms-and-conditions) and [Matrix Code of Conduct](https://www.matrix.org/legal/code-of-conduct).
+All content that violates the terms of service of the platform being used for a Woven community space is strictly prohibited. For Discord, see [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines). For GitHub, see [GitHub Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service). For Matrix, see [Terms and Conditions](https://www.matrix.org/legal/terms-and-conditions) and [Matrix Code of Conduct](https://www.matrix.org/legal/code-of-conduct).
 
 ## Rule 3
-> Mentions of MCP or Mojang licensed mappings prohibited due to license concerns. Please use the names of their Yarn of Intermediary equivalents. If you do not know their equivalents, ask based on the function of the class, method, or field.
+Mentions of MCP or Mojang licensed mappings prohibited due to license concerns. Please use the names of their Yarn of Intermediary equivalents. If you do not know their equivalents, ask based on the function of the class, method, or field.
 
 ## Rule 4
-> Respect and maturity is required to participate in our community. Disregarding someone's preferences, such as a name or pronouns to be referred by, is prohibited. Attempting to re-engage in a conversation against someone's will is prohibited. Organizing, promoting, inciting, or joking about the stirring up of drama, provocation, or antagonization of others, including in other communities is prohibited. Being generally annoying is prohibited.
+Respect and maturity is required to participate in our community. Disregarding someone's preferences, such as a name or pronouns to be referred by, is prohibited. Attempting to re-engage in a conversation against someone's will is prohibited. Organizing, promoting, inciting, or joking about the stirring up of drama, provocation, or antagonization of others, including in other communities is prohibited. Being generally annoying is prohibited.
 
 ### Social Guidelines
-> The following are basic social guidelines to create a comfortable space for everyone. It is highly recommended you follow these guidelines.
+The following are basic social guidelines to create a comfortable space for everyone. It is highly recommended you follow these guidelines.
 - Constructive criticism is preferred over plain negativity.
 - Avoid attacking other projects -- this community space is for Woven.
 - Everyone is welcome, and an effort should be made to make this space as comfortable for everyone, including newcomers.
