@@ -18,7 +18,7 @@ Examples of unacceptable behavior include, but is not limited to:
 All content that violates the terms of service of the platform being used for a Woven community space is strictly prohibited. For Discord, see [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines). For GitHub, see [GitHub Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service). For Matrix, see [Terms and Conditions](https://www.matrix.org/legal/terms-and-conditions) and [Matrix Code of Conduct](https://www.matrix.org/legal/code-of-conduct).
 
 ## Rule 3
-Mentions of MCP or Mojang licensed mappings prohibited due to license concerns. Please use the names of their Yarn of Intermediary equivalents. If you do not know their equivalents, ask based on the function of the class, method, or field.
+Mentions of MCP or Mojang licensed mappings prohibited due to license concerns. Please use the names of their Yarn or Intermediary equivalents. If you do not know their equivalents, ask based on the function of the class, method, or field.
 
 ## Rule 4
 Respect and maturity is required to participate in our community. Disregarding someone's preferences, such as a name or pronouns to be referred by, is prohibited. Attempting to re-engage in a conversation against someone's will is prohibited. Organizing, promoting, inciting, or joking about the stirring up of drama, provocation, or antagonization of others, including in other communities is prohibited. Being generally annoying is prohibited.
