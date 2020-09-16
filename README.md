@@ -48,3 +48,9 @@ First, join one of our community spaces, such as [our Discord](https://discord.g
 
 ## Where is the documentation?
 Currently, we're still mostly in planning phase, and our website is currently in-progress. Don't worry though, every single module we'll publish will have an extensive documentation, including Javadocs, a wiki, and examples we believe are most applicable to most modders' use cases.
+
+## What is "PluralKit?" (Discord)
+Due to the number of plural community members we have, we've added this bot so that they can express themselves easier and differentiate between themselves easily. Plurality is a broad term used to describe multiples, or people who aren't just one individual in one body. If you're interested in learning more, [click here](https://pluralityresource.org/). (Link is subject to change.)
+
+## Why can I see the #moderator-chat and #moderator-logs channels? (Discord)
+We're taking a transparent approach to moderation, allowing normal users to view but not participate in moderator channels. 
