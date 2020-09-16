@@ -53,4 +53,4 @@ Currently, we're still mostly in planning phase, and our website is currently in
 Due to the number of plural community members we have, we've added this bot so that they can express themselves easier and differentiate between themselves easily. Plurality is a broad term used to describe multiples, or people who aren't just one individual in one body. If you're interested in learning more, [click here](https://pluralityresource.org/). (Link is subject to change.)
 
 ## Why can I see the #moderator-chat and #moderator-logs channels? (Discord)
-We're taking a transparent approach to moderation, allowing normal users to view but not participate in moderator channels. 
+We're taking a transparent approach to moderation, allowing normal users to view but not participate in moderator channels. Don't worry about if we have things to discuss that are sensitive and shouldn't be in a public channel, we have a specific, rarely used channel for it. Most if not all of our moderation discussion is in #moderator-chat.
