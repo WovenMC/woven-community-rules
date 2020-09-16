@@ -37,11 +37,9 @@ The following are basic social guidelines to create a comfortable space for ever
 
 # Frequently Asked Questions (FAQ)
 
-## Is Woven compatible with Fabric?
-Yes. Woven is an extension of the APIs for Fabric, so there would be no compatibility issues. In the future, we may begin maintaining Fabric if the project is struggling to survive, creating a fork of it.
+## What is Woven?
+Woven is currently a set of APIs for Fabric to assist modders with common problems, such as a fluid API, and a community for Minecraft modders and players. We aim to create a comfortable space for modders and players. In the future, we may maintain Fabric altogether, updating its API, loader, Yarn, Intermediary, and more.
 
 ## About the situation with Fabricord...
 The moderation team has been working to solve the issues in Fabricord behind the scenes. As the current moment, we're not too faithful if Fabricord will recover from this incident. 
 
-## What is the goal of Woven?
-Our main goal is to create a community where Minecraft modders and players can feel comfortable without the issues of poor moderation. Our secondary goal is to create an API for Fabric that Fabric's API maintainers have trouble with (mostly because of bikeshed). We aim to provide features with Woven API such as the well-known Fluid API that was never accepted due to intense bikeshedding, and other welcomed improvements. We don't aim to be a replacement for the Fabric API, but in the case that the Fabric API is no longer maintained, we will maintain it.
