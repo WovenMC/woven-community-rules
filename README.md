@@ -1,7 +1,7 @@
 ![woven white theme logo](https://cdn.discordapp.com/attachments/754729493347827734/754864779524309012/light-title.png)
 # Woven Community Rules
 
-**Disclaimer:** Actions you perform in WovenMC community spaces are logged for moderation purposes, such as name changes, content deletions, and edits. This is to ensure the health of our community from bad actors.  
+**Disclaimer:** Actions you perform in WovenMC community spaces are logged for moderation purposes, such as name changes and content deletions performed by a moderator. This is to ensure the health of our community from bad actors.
 You must be 13 or older to participate in WovenMC community spaces. If you are found to be under 13, you will be banned until you are 13.
 
 ## Rule 1  
