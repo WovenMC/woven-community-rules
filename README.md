@@ -5,13 +5,14 @@
 You must be 13 or older to participate in WovenMC community spaces. If you are found to be under 13, you will be banned until you are 13.
 
 ## Rule 1  
-Discriminatory, harassing, bullying, "trolling", or otherwise offensive or distasteful content, regardless if it were not directed towards another community member or was a joke, is prohibited. We have a **zero tolerance policy** on hate speech and harassment. Posting content which can reasonably considered intentionally attacking or offensive will result in disciplinary action.
+Discriminatory, harassing, bullying, "trolling", or otherwise offensive, distasteful, or violent content, regardless if it were not directed towards another community member or was a joke, is prohibited. We have a **zero tolerance policy** on hate speech and harassment. Posting content which can reasonably considered intentionally attacking or offensive will result in disciplinary action.
 
 Examples of unacceptable behavior include, but is not limited to:
 - Using slurs, including but not limited to words like "trap" and "retard."
 - Using language that uses identities, disabilities, illnesses, or other uncontrollable factors as the butt of a joke. This includes but is not limited to calling someone or something "triggered," "autistic," and "cancer" as a joke.
 - Using language that is sexual or refers to something sexual. This includes but is not limited to language such as "loli/shota," "thot," and "fetish."
 - Posting images or content that is intended to start an argument or controversy.
+- Posting images or content that is a threat or advocation of physical violence.
 - Anything the moderation feels is unacceptable behavior for our community.
 
 ## Rule 2
