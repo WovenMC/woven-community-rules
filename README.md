@@ -45,7 +45,7 @@ Woven is currently a set of APIs for Fabric to assist modders with common proble
 The moderation team has been working to solve the issues in Fabricord behind the scenes. As the current moment, we're not too faithful if Fabricord will recover from this incident. 
 
 ## How do I contribute? 
-First, join one of our community spaces, such as [our Discord](https://discord.gg/DCSJWqd) or our Matrix (#wovenmc:matrix.org). If you want to create a new module, create a repository using the module template [here](https://github.com/WovenMC/woven-api-module-template). Now, all that's left for you to do is get in touch with us and we'll collaborate on getting your contributions added to the main repositories!
+First, join one of our community spaces, such as [our Discord](http://discord.gg/JY5FQ3W) or our Matrix (#wovenmc:matrix.org). If you want to create a new module, create a repository using the module template [here](https://github.com/WovenMC/woven-api-module-template). Now, all that's left for you to do is get in touch with us and we'll collaborate on getting your contributions added to the main repositories!
 
 ## Where is the documentation?
 Currently, we're still mostly in planning phase, and our website is currently in-progress. Don't worry though, every single module we'll publish will have an extensive documentation, including Javadocs, a wiki, and examples we believe are most applicable to most modders' use cases.
